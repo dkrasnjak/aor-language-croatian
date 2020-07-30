@@ -1,24 +1,25 @@
 {
-  "name": "aor-language-croatian",
-  "version": "1.0.0",
-  "description": "Croatian translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
+  "name": "ra-language-croatian",
+  "version": "3.7.1",
+  "description": "Croatian translations for react-admin, the frontend framework for building admin applications on top of REST services",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ariskemper/aor-language-croatian.git"
+    "url": "git+https://github.com/dkrasnjak/ra-language-croatian.git"
   },
   "keywords": [
     "react",
-    "admin-on-rest",
-    "translation"
+    "react-admin",
+    "translation",
+    "croatian"
   ],
-  "author": "Aris Kemper",
+  "author": "Dubravko Krasnjak",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ariskemper/aor-language-croatian/issues"
+    "url": "https://github.com/dkrasnjak/ra-language-croatian/issues"
   },
-  "homepage": "https://github.com/ariskemper/aor-language-croatian#readme"
+  "homepage": "https://github.com/dkrasnjak/ra-language-croatian#readme"
 }
